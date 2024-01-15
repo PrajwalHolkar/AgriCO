@@ -9,7 +9,7 @@ AgriCO is an online platform designed to facilitate transparent bidding and seam
    - Ensures a seamless and enjoyable experience for both farmers and buyers.
 
 2. **Real-time Updates**
-   - Implemented real-time updates using NodeJS and Socket.io.
+   - Implemented real-time updates using NodeJS, Express.js and Socket.io.
    - Facilitates instant communication between users, keeping them informed about ongoing transactions and bids.
 
 3. **Efficient Data Management**
