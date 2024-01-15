@@ -17,8 +17,8 @@ AgriCO is an online platform designed to facilitate transparent bidding and seam
    - Ensures reliable storage and retrieval of information critical to the agricultural trade process.
 
 4. **User Roles**
-   - Farmer Side: Empowers farmers to showcase their projects and receive bids.
-   - Buyer Side: Enables buyers to browse available projects and submit competitive bids.
+   - Farmer Side: Empowers farmers to showcase their products and receive bids.
+   - Buyer Side: Enables buyers to browse available products and submit competitive bids.
    - Admin Panel: Includes an admin panel for authentication and overall platform management.
 
 ## Getting Started
