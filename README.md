@@ -13,7 +13,7 @@ AgriCO is an online platform designed to facilitate transparent bidding and seam
    - Facilitates instant communication between users, keeping them informed about ongoing transactions and bids.
 
 3. **Efficient Data Management**
-   - Leveraged MySQL for robust and scalable data management.
+   - Leveraged MongoDB for robust and scalable data management.
    - Ensures reliable storage and retrieval of information critical to the agricultural trade process.
 
 4. **User Roles**
@@ -25,13 +25,13 @@ AgriCO is an online platform designed to facilitate transparent bidding and seam
 
 ### Prerequisites
 - Node.js installed on your machine.
-- MySQL database set up.
+- MongoDB database set up.
 
 ### Installation
 1. Clone the repository: `git clone https://github.com/your-username/Agrico.git`
 2. Navigate to the project directory: `cd Agrico`
 3. Install dependencies: `npm install`
-4. Set up the MySQL database with the provided schema.
+4. Set up the MongoDB database with the provided schema.
 5. Configure the database connection in the project.
 
 ### Usage
